@@ -1,6 +1,6 @@
 <?php
 
-namespace mark\testcmp;
+namespace mark3737\testcmp;
 
 class Calc
 {

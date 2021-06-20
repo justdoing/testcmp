@@ -1,12 +1,12 @@
 {
-    "name": "mark/testcmp",
+    "name": "mark3737/testcmp",
     "require": {
         "php": ">=7.0"
     },
     "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
-            "mark\\testcmp\\": "src/"
+            "mark3737\\testcmp\\": "src/"
         }
     },
     "authors": [
