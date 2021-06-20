@@ -1,6 +1,6 @@
 <?php
 
-namespace Mark\ComposerTest;
+namespace mark\testcmp;
 
 class Test
 {

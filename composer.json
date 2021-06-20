@@ -1,14 +1,12 @@
 {
-    "name": "mark/composer_test",
-    "description": "test...",
-    "type": "1",
+    "name": "mark/testcmp",
     "require": {
         "php": ">=7.0"
     },
     "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
-            "Mark\\ComposerTest\\": "src"
+            "mark\\testcmp\\": "src/"
         }
     },
     "authors": [
